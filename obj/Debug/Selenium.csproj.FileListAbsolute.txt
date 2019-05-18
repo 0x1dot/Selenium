@@ -1,0 +1,12 @@
+C:\Users\0x1dot\source\repos\Selenium\bin\Debug\Selenium.exe
+C:\Users\0x1dot\source\repos\Selenium\bin\Debug\Selenium.pdb
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.Form1.resources
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.Properties.Resources.resources
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.csproj.GenerateResource.cache
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.exe
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.pdb
+C:\Users\0x1dot\source\repos\Selenium\bin\Debug\WebDriver.dll
+C:\Users\0x1dot\source\repos\Selenium\bin\Debug\WebDriver.xml
+C:\Users\0x1dot\source\repos\Selenium\obj\Debug\Selenium.csproj.CopyComplete
